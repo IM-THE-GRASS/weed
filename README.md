@@ -8,7 +8,7 @@
 <br>
 <br>
 
-The Weed is a delta 3d printer i made for Hack Club's [Highway](highway.hackclub.com)
+The Weed is a tripteron 3d printer i made for Hack Club's [Highway](highway.hackclub.com)
 
 this is my 5th printer that i have made and it was made in like 5 hours so its utter garbage 
 
