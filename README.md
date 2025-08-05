@@ -12,6 +12,10 @@ The Weed is a tripteron 3d printer i made for Hack Club's [Highway](highway.hack
 
 this is my 5th printer that i have made and it was made in like 5 hours so its utter garbage 
 
+ive always wanted to make a tripteron printer ever since i learned abt the motion system but i never got around to it
+
+so theres no better time to do it than the 5 hrs before the highway deadline lol
+
 its also probably a pain in the ass so i calle it weed :)
 
 ## Gallery:
