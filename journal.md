@@ -8,7 +8,7 @@ created_at: "2025-07-31"
 ---
 
 ### day one - july 31
-
+#### 1 hour spent
 
 i want to make a tripteron 3d printer
 
@@ -25,6 +25,7 @@ its a random shitty frame that idk if its good or nah
 ---
 
 ### day one part two - july 31
+#### 2 hour spent
 
 i found this bearing on aliexpress
 
@@ -41,6 +42,7 @@ anyway i made one of the arms im prolly jus going to copy paste this a couple ti
 ---
 
 ### day one part three - july 31
+#### 3 hour spent
 i did in fact copy paste it a couple times
 
 anyway i also used some joints to kinda rig it up to a basic ahh toolhead with the same parts i always use for my printers lol
@@ -60,7 +62,7 @@ ignore the one sitting in the corner of the image its not attached yet
 ---
 
 ### day one part four - july 31
-
+#### 3 hour spent
 ok so all the arms are now on there and like i think that works 
 
 its very fun to play with cuz i made all the joints work and idk why i did that but i did
@@ -75,7 +77,7 @@ its very fun to play with cuz i made all the joints work and idk why i did that 
 ---
 
 ### day one part five - july 31
-
+#### 5 hour spent
 i mounted the motors and idlers and stuff 
 
 i also finished the frame ig cuz idk why but i didnt put the front 2020 extrusion in earlier so i did that :)
