@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7ed9533be202994f888c9b691693ae4bf2f766ee_image.png" width="" height="555"></img>
+  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/98720c51234600e5c2cda9c26f412c51a927440e_image.png" width="" height="555"></img>
   <h1>Weed</h3>
 </div>
 <div align="center">
